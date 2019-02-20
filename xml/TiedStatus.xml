@@ -11,6 +11,7 @@
             <name>
                 <narrative>Partially tied</narrative>
                 <narrative xml:lang="fr">Semi-conditionnelle</narrative>
+                <narrative xml:lang="it">Parzialmente legato</narrative>
             </name>
             <description>
                 <narrative>Official Development Assistance for which the associated goods and services must be procured from a restricted number of countries, which must however include substantially all aid recipient countries and can include the donor country.</narrative>
@@ -22,6 +23,7 @@
             <name>
                 <narrative>Tied</narrative>
                 <narrative xml:lang="fr">Conditionnelle</narrative>
+                <narrative xml:lang="it">Legato</narrative>
             </name>
             <description>
                 <narrative>Official grants or loans where procurement of the goods or services involved is limited to the donor country or to a group of countries which does not include substantially all aid recipient countries.</narrative>
@@ -33,6 +35,7 @@
             <name>
                 <narrative>Untied</narrative>
                 <narrative xml:lang="fr">Sans condition</narrative>
+                <narrative xml:lang="it">Slegato</narrative>
             </name>
             <description>
                 <narrative>Untied aid is defined as loans and grants whose proceeds are fully and freely available to finance procurement from all OECD countries and substantially all developing countries.</narrative>
