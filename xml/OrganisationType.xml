@@ -10,6 +10,7 @@
             <name>
                 <narrative>Government</narrative>
                 <narrative xml:lang="fr">Gouvernement</narrative>
+                <narrative xml:lang="it">Governo</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -26,6 +27,7 @@
             <name>
                 <narrative>Other Public Sector</narrative>
                 <narrative xml:lang="fr">Autre secteur public</narrative>
+                <narrative xml:lang="it">Altri enti del settore pubblico</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -33,6 +35,7 @@
             <name>
                 <narrative>International NGO</narrative>
                 <narrative xml:lang="fr">ONG internationale</narrative>
+                <narrative xml:lang="it">ONG Internazionali</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -40,6 +43,7 @@
             <name>
                 <narrative>National NGO</narrative>
                 <narrative xml:lang="fr">ONG nationale</narrative>
+                <narrative xml:lang="it">ONG Nazionali</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -70,6 +74,7 @@
             <name>
                 <narrative>Multilateral</narrative>
                 <narrative xml:lang="fr">Multilatéral</narrative>
+                <narrative xml:lang="it">Multilaterale</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -84,12 +89,14 @@
             <name>
                 <narrative>Private Sector</narrative>
                 <narrative xml:lang="fr">Secteur privé</narrative>
+                <narrative xml:lang="it">Settore privato</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>71</code>
             <name>
                 <narrative>Private Sector in Provider Country</narrative>
+                <narrative xml:lang="it">Settore privato nel paese donatore</narrative>
             </name>
             <description>
                 <narrative>Is in provider / donor country.</narrative>
@@ -99,6 +106,7 @@
             <code>72</code>
             <name>
                 <narrative>Private Sector in Aid Recipient Country</narrative>
+                <narrative xml:lang="it">Settore privato nel paese destinatario</narrative>
             </name>
             <description>
                 <narrative>Is in aid recipient country.</narrative>
@@ -108,6 +116,7 @@
             <code>73</code>
             <name>
                 <narrative>Private Sector in Third Country</narrative>
+                <narrative xml:lang="it">Settore privato in paesi terzi</narrative>
             </name>
             <description>
                 <narrative>Is not in either a donor or aid recipient country.</narrative>

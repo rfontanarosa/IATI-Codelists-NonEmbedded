@@ -11,6 +11,7 @@
             <name>
                 <narrative>Bilateral</narrative>
                 <narrative xml:lang="fr">Bilatéral</narrative>
+                <narrative xml:lang="it">Bilaterale</narrative>
             </name>
             <description>
                 <narrative>Bilateral transactions are those undertaken by a donor, excluding core contributions to other organisations (codes 2 and 3 below). It includes transactions channelled through other organisations.</narrative>
@@ -21,6 +22,7 @@
             <name>
                 <narrative>Multilateral (inflows)</narrative>
                 <narrative xml:lang="fr">Multilatéral (contributions des donneurs du CAD)</narrative>
+                <narrative xml:lang="it">Multilaterale</narrative>
             </name>
             <description>
                 <narrative>Multilateral contributions are those made to a recipient institution which: 
@@ -34,6 +36,7 @@
             <name>
                 <narrative>Bilateral, core contributions to NGOs and other private bodies / PPPs</narrative>
                 <narrative xml:lang="fr">Contributions bilatérales au budget général d'organisations non gouvernementales, d'autres organisations de la société civile, de partenariats publics-privés et d'instituts de recherches</narrative>
+                <narrative xml:lang="it">Bilaterale contributi "core" a ONG, nazionali e internazionali, società civile, PPP e Istituti di ricerca</narrative>
             </name>
             <description>
                 <narrative>Bilateral funds paid over to national and international non-governmental organisations (NGOs), Public Private Partnerships (PPPs), or other private bodies for use at their discretion.</narrative>
@@ -64,6 +67,7 @@
             <name>
                 <narrative>Bilateral, ex-post reporting on NGOs’ activities funded through core contributions</narrative>
                 <narrative xml:lang="fr">Contributions bilatérales, notification ex post des activités des ONG financées par des contributions des donneurs au budget général de l'ONG.</narrative>
+                <narrative xml:lang="it">Bilaterale, reporting ex-post su attività delle ONG finanziate tramite contributi core</narrative>
             </name>
             <description>
                 <narrative/>
@@ -74,6 +78,7 @@
             <name>
                 <narrative>bilateral, triangular co-operation: activities where one or more bilateral providers of development co-operation or international organisations support South-South co-operation, joining forces with developing countries to facilitate a sharing of knowledge and experience among all partners involved. (Activities that only involve bilateral providers or multilateral agencies without a South-South co-operation element (e.g. joint programming, pooled funding or delegated co-operation) should not be assigned bi_multi 8.)</narrative>
                 <narrative xml:lang="fr">Coopération triangulaire bilatérale: activités où un ou plusieurs pourvoyeurs bilatéraux de coopération pour le développement ou organisations internationales soutiennent la coopération Sud-Sud, conjointement avec des pays en développement afin de faciliter le partage des connaissances et d'expériences entre tous les partenaires impliqués. (Les activités qui n'impliquent que des pourvoyeurs bilatéraux ou des organismes multilatéraux sans coopération Sud-Sud (programmes conjoints, financements groupés ou coopération déléguée) ne devraient pas être codés bi_multi 8.)</narrative>
+                <narrative xml:lang="it">Bilaterale cooperazione triangolare</narrative>
             </name>
             <description>
                 <narrative/>

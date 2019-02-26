@@ -9,54 +9,63 @@
             <code>1</code>
             <name>
                 <narrative>Gender Equality</narrative>
+                <narrative xml:lang="it">Uguaglianza di Genere</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>2</code>
             <name>
                 <narrative>Aid to Environment</narrative>
+                <narrative xml:lang="it">Aiuto all'Ambiente</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>3</code>
             <name>
                 <narrative>Participatory Development/Good Governance</narrative>
+                <narrative xml:lang="it">Sviluppo partecipativo e buon governo</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>4</code>
             <name>
                 <narrative>Trade Development</narrative>
+                <narrative xml:lang="it">Sviluppo del Commercio</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>5</code>
             <name>
                 <narrative>Aid Targeting the Objectives of the Convention on Biological Diversity</narrative>
+                <narrative xml:lang="it">Biodiversità</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>6</code>
             <name>
                 <narrative>Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation</narrative>
+                <narrative xml:lang="it">Cambiamenti Climatici Mitigazione</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>7</code>
             <name>
                 <narrative>Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</narrative>
+                <narrative xml:lang="it">Cambiamenti Climatici Adattamento</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>8</code>
             <name>
                 <narrative>Aid Targeting the Objectives of the Convention to Combat Desertification</narrative>
+                <narrative xml:lang="it">Desertificazione</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>9</code>
             <name>
                 <narrative>Reproductive, Maternal, Newborn and Child Health (RMNCH)</narrative>
+                <narrative xml:lang="it">Salute Materno - Infantile</narrative>
             </name>
         </codelist-item>
     </codelist-items>

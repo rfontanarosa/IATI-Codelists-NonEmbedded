@@ -14,6 +14,7 @@
             <name>
                 <narrative>Budget support</narrative>
                 <narrative xml:lang="fr">Soutien Budgétaire</narrative>
+                <narrative xml:lang="it">Sostegno generale o settoriale al Bilancio</narrative>
             </name>
             <description>
                 <narrative>For contributions under this category, the donor relinquishes the exclusive control of its funds by sharing the responsibility with the recipient.</narrative>
@@ -25,6 +26,7 @@
             <name>
                 <narrative>Core contributions and pooled programmes and funds</narrative>
                 <narrative xml:lang="fr">Contributions aux budgets réguliers des organisations, programmes et financements groupés</narrative>
+                <narrative xml:lang="it">Contributi al bilancio di organismi di cooperazione internazionale e a fondi comuni di donatori</narrative>
             </name>
             <description>
                 <narrative>For contributions under this category, the donor relinquishes the exclusive control of its funds by sharing the responsibility with other stakeholders (other donors, NGOs, multilateral institutions, Public Private Partnerships). The category covers both core contributions (B01 and B02), and pooled contributions with a specific earmarking (B03 and B04).</narrative>
@@ -36,6 +38,7 @@
             <name>
                 <narrative>Project-type interventions</narrative>
                 <narrative xml:lang="fr">Interventions de type projet</narrative>
+                <narrative xml:lang="it">Progetti di cooperazione</narrative>
             </name>
             <description>
                 <narrative>N.B. Within this category, members able to do so are requested to report the aggregate amount used for financing donor experts/consultants on Table DAC1. Where the activity consists solely of experts’ costs, report under category D.</narrative>
@@ -47,6 +50,7 @@
             <name>
                 <narrative>Experts and other technical assistance</narrative>
                 <narrative xml:lang="fr">Experts et autres formes d’assistance technique</narrative>
+                <narrative xml:lang="it">Assistenza tecnica (non legata ai progetti)</narrative>
             </name>
             <description>
                 <narrative>This category covers the provision, outside projects as described in category C, of know-how in the form of personnel, training and research.</narrative>
@@ -58,6 +62,7 @@
             <name>
                 <narrative>Scholarships and student costs in donor countries</narrative>
                 <narrative xml:lang="fr">Bourses et autres frais d’étude dans les pays donneurs</narrative>
+                <narrative xml:lang="it">Formazione nel paese donatore (Borse di studio e altri costi)</narrative>
             </name>
             <description>
                 <narrative/>
@@ -68,6 +73,7 @@
             <name>
                 <narrative>Debt relief</narrative>
                 <narrative xml:lang="fr">Allégement de la dette</narrative>
+                <narrative xml:lang="it">Cancellazione o riscadenzamento del debito</narrative>
             </name>
             <description>
                 <narrative/>
@@ -78,6 +84,7 @@
             <name>
                 <narrative>Administrative costs not included elsewhere</narrative>
                 <narrative xml:lang="fr">Frais administratifs non inclus ailleurs</narrative>
+                <narrative xml:lang="it">Costi amministrativi generali del donatore</narrative>
             </name>
             <description>
                 <narrative/>
@@ -88,6 +95,7 @@
             <name>
                 <narrative>Other in-donor expenditures</narrative>
                 <narrative xml:lang="fr">Autres dépenses dans le pays donneur</narrative>
+                <narrative xml:lang="it">Altre spese nel paese donatore</narrative>
             </name>
             <description>
                 <narrative>Groups a number of contributions that do not give rise to a cross-border flow.</narrative>
